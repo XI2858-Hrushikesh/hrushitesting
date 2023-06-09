@@ -1,18 +1,19 @@
-slug: hrushightest
-id: enmuqudd48wm
-title: hrushiGHTest
+slug: hrushightest-dev
+id: vd0zvvgefz4g
+title: DEV - hrushiGHTest
 teaser: Get started quickly with a single container-based sandbox host
 description: Get started quickly with a container-based sandbox host. Choose a container
   when you need a fast, lightweight Linux system.
 icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
 tags:
-- prod
+- dev
 owner: instruqt-support
 developers:
 - hrushikesh@instruqt.com
+maintenance: true
 timelimit: 2000
 lab_config:
   overlay: false
   width: 33
   position: right
-checksum: "7450083509952246821"
+checksum: "419902513734923296"

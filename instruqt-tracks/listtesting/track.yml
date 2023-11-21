@@ -1,0 +1,21 @@
+slug: listtesting
+id: 7w2lxkpuj2pn
+title: listtesting
+teaser: <h2 style="color:red;margin-left:40px;">Get started quickly with just one
+  container-based sandbox host. </h2>
+description: |+
+  It's a testing track
+
+  In this activity, you'll use `find()` to find documents using equality match  and the `$in` operator.
+
+icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
+tags: []
+owner: instruqt-support
+developers:
+- hrushikesh@instruqt.com
+timelimit: 3600
+lab_config:
+  overlay: false
+  width: 33
+  position: left
+checksum: "18355268642254784907"

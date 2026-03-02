@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -exo pipefail
+
+cd /root/workspace
+set-workdir /root/workspace

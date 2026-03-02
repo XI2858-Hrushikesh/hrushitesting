@@ -1,0 +1,26 @@
+slug: container-copy2-copy
+id: hygnpytayxym
+revision: -62135596800
+title: Sandbox container Copy Copy
+teaser: Get started quickly with a single container-based sandbox host
+description: Get started quickly with a container-based sandbox host. Choose a container
+  when you need a fast, lightweight Linux system.
+icon: https://cdn.instruqt.com/assets/templates/ubuntu.png
+tags: []
+owner: instruqt-support
+developers:
+- sohail@instruqt.com
+instructors: []
+idle_timeout: 0
+timelimit: 0
+lab_config:
+  extend_ttl: 0
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  override_challenge_layout: false
+  default_layout: AssignmentRight
+  default_layout_sidebar_size: 33
+  loadingMessages: true
+enhanced_loading: null
